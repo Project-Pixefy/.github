@@ -1,7 +1,7 @@
 
 ![Project Pixefy](https://github.com/ProjectPixefy/.github/assets/83027422/62e53e15-8f1b-4b74-a53f-4f9875136677)
 
-### Introducing Project Pixefy based on Android 14
+### Introducing Project Pixefy based on Android 15
 <p>We're redefining your Android experience with our latest updates! which offers minimal UI improvements and a close-to-stock Android experience with customization.</p>
 <p>Project Pixefy aims to provide Stable Experience with some needfull customizations</p>
 
